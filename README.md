@@ -1,5 +1,7 @@
 # Yolov5-ObjectDetection
 
-### Start
+### First of All
 - add your .pt trained file
+
+### For run
 - $ python3 main.py
