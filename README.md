@@ -1,4 +1,3 @@
-# Yolov5-ObjectDetection
 
 ## Usage
 - add your YoloV5 .pt trained file
