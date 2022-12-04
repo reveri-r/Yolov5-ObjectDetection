@@ -8,6 +8,9 @@
 ```python
 model = torch.hub.load('ultralytics/yolov5', 'custom', source="local", path=model_name, force_reload=True)
 ```
-
+- Diffrent is 
+```
+source="local"
+```
 ### For run
 - $ python3 main.py
