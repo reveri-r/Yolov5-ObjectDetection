@@ -1,6 +1,6 @@
 # Yolov5-ObjectDetection
 
-### First of All
+## Usage
 - add your YoloV5 .pt trained file
 - use your webcam
 
